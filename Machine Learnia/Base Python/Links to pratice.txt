@@ -1,0 +1,22 @@
+Liens pour pratiquer en temps réel sur des sites comme coding game et leetcode mais spécial Data...
+
+# Stratascratch
+https://platform.stratascratch.com/
+
+# DataLemur
+https://datalemur.com/
+
+# Deep-ML
+https://www.deep-ml.com/
+
+# Kaggle
+https://course.fast.ai/
+
+# ML Crash-course
+https://developers.google.com/machine-learning/crash-course
+
+# LabEx
+https://labex.io/free-labs/ml
+
+# Practice Probs
+https://www.practiceprobs.com/
